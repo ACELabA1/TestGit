@@ -54,7 +54,7 @@ protected:
 
 private:
     int m_timerId;
-};
+};ddddd
 //! [5]
 
 
